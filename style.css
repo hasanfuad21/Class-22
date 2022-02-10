@@ -1,0 +1,99 @@
+
+img{
+    max-width: 100%;
+}
+
+.main-bg{
+    background-color: #F9F9FF;
+}
+
+
+
+nav .navbar{
+    background-color: #fff !important;
+}
+
+.menu-logo{
+    width: 100px;
+}
+
+/* banner section */
+
+
+.banner-caption{
+    margin-top: 130px;
+}
+
+.btn-color{
+    background-color: #8592FC;
+    font-size: 20px;
+    color: #fff;
+}
+
+/* about section */
+
+.about-button{
+    background-color: #8592FC;
+    color: #fff;
+}
+/* Number counting */
+.bg-color{
+    background-color: #8592FC;
+    color: #fff;
+}
+
+/* pricing table */
+.box{
+    background-color: #fff;
+    padding: 50px;
+}
+.box h2 {
+    background-color:#F9F9FF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    top: -10px;
+    left: -3px;
+    display: inline-block;
+    line-height: 75px;
+}
+
+
+.box ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 45px;
+    margin-bottom: 30px;
+}
+.box ul li{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* profile -section */
+.card img {
+    width: 100px;
+    height: auto;
+    margin-top: -55px;
+    margin-left: 10px;
+}
+.profile{
+    margin-top: 90px;
+}
+/* contact info */
+.contact-info {
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+/* footer */
+footer{
+    background: #04091E;
+    margin-bottom: 0;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
